@@ -1,0 +1,17 @@
+@use "../presets" as *;
+
+
+.wrapper {
+  height: 100%;
+  background-color: #FFFFFF;
+  overflow: hidden;
+}
+
+.container {
+  max-width: 1170px;
+  overflow: hidden;
+  padding: 0 1.125rem;
+  margin: 0 auto;
+  box-sizing: content-box;
+}
+
